@@ -52,4 +52,4 @@ jobs:
           app-name: 'app-mesa-apitechradar-temp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AEB1872792564960A45862A1FDB41E33 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C039294F9D54FDC95355F07683412B9 }}
